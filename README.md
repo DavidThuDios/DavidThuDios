@@ -9,3 +9,7 @@ DavidThuDios/DavidThuDios is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 README.md
+lead.me
+readme.mdDavidThuDios
+lead.me
+readme.mdDavidThuDioslead.me
